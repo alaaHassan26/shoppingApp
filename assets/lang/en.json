@@ -1,0 +1,118 @@
+{
+    "login": "LogIn",
+    "email": "Email",
+    "password" : "Password",
+    "forgotpassword" : "Forgot your password",
+    "notaccount"  : "I don't have account",
+    "name":"Name",
+    "phone" : "Phone",
+    "haveaccount" : "Already have an account",
+    "signup" : "SignUp",
+    "myprofile" : "My Profile",
+    "myorders" : "My orders",
+    "shippingaddresses" : "Shipping addresses",
+    "paymentmethods" : "Payment methods",
+    "setting":"Setting",
+    "logout":"LogOut",
+    "12_orders" : "orders 12",
+    "3_addresses" : " addresses 3",
+    "visa_3" : "visa **3",
+    "notifications_password":"notifications,password...",
+
+
+   "new":"New",
+   "youveneverseenitbefore": "You’ve never seen it before!",
+   "viewall":"View all",
+   "eveningdress": "Evening Dress",
+   "dorothyperkins":"Dorothy Perkins",
+   "electrionicdevices": "electrionic devices",
+   "appleiPhone12Promax":"Apple iPhone 12 Pro Max",
+   "ram":"256GB 6 GB RAM, Pacific Blue",
+   "electricaldevices":"Electrical devices",
+   "jbl":"JBL Xtreme 2 Portable",
+   "speaker":"Bluetooth Speaker - Blue",
+   "pirce":"Price",
+   "lang" : "Language",
+  "theme":"Theme",
+   
+"medical" : "Medical",
+
+"sports" : "Sports",
+"clothes" : "Clothes",
+"showmore" : "Show more",
+"showless" : "Show less",
+"shopping" : "Shopping",
+"searchproducts" : "Search products...",
+"home":"Home",
+"favorite" : "Favorite",
+"nofavorite" :"There are no favorite products",
+"discount" : "Discount",
+"theproductisalreadyaddedtofavorites" : "The product is already added to favorites",
+"theproducthasbeenaddedtofavorites" : "The product has been added to favorites",
+"theproducthasbeenremovedfromfavorites" :"The product has been removed from favorites",
+
+
+"shoppingcart" : "Shopping Cart",
+"yourcartisempty" : "Your cart is empty.",
+"total" : "Total",
+"totalamount" : "Total amount",
+"ordercompletion" : "Order Completion",
+"addtocart" : "Add to cart",
+"totalprice" : "Total Price",
+"productaddedtocart" : "Product added to cart",
+"nointernetconnection" : "No internet connection",
+"internetconnectionrestored" : "Internet connection restored",
+"error" : "There is an error, Please try again",
+"loggiingout" : "Logging Out",
+
+
+"trythesestepstoreconnecttotheinternet" : "Try these steps to reconnect to the internet:",
+"checkthemodemandtherouter" : "Check the modem and the router",
+"reconnecttothewifinetwork" : "Reconnect to the Wi-Fi network",
+"reloadthepage" : "Reload the page",
+
+
+"home1" : "Home",
+"store" : "Store",
+"favorite1" : "Favorite",
+"cart" : "Cart" ,
+"profile" : "Profile",
+
+"pleasewaitamoment" : "Please wait a moment",
+"description" : "Description:",
+
+
+"updatedproductseveryday": "Updated Products Everyday",
+"dontworrywewontbeoutdated" : "Don't worry, we won't be outdated!",
+"easytransactionandpayment" : "Easy Transaction And Payment" ,
+"yourpackageandserviceatyourdoor" : "Your package and service at your door ASAP!",
+"freeshippingvouchers" : "Free-shipping vouchers",
+"wecareaboutyourpackageasitsourown" : "We care about your package as it's our own!",
+"skip" : "Skip",
+"next" : "Next",
+"getStarted" : "Get Started",
+
+
+"emailcannotbeempty" : "Email cannot be empty ",
+"invalidemailaddress" : "Invalid email address",
+"passwordcannotbeempty" : "Password cannot be empty",
+"passwordmustbeatleast8characters" : "Password must be at least 8 characters",
+"passwordmustcontainatleastoneuppercaseletterandonedigit" : "Password must contain at least one uppercase letter and one digit",
+"namecannotbeempty" : "Name cannot be empty",
+"namemustbeatleast3characters" : "Name must be at least 3 characters",
+
+"theimagemustnotbeempty" : "The image must not be empty",
+
+
+"forgotpassword1" : "Forgot Password?" ,
+ "enteremail" : "You must enter the email address that your account is linked to in order to receive a message to change the password.",
+ "sendemail" : "Send to The email",
+ 
+"checkyouremail" : "Check your email",
+"soon" : "Soon...!",
+"electrionicdevices1" : "electronics",
+"oldpirce" : " Old pirce",
+
+"clickforsuggestions" : "Click for suggestions..."
+
+}
